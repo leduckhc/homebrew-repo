@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Promethist/kotlin < Formula
+class KotlinAT1521 < Formula
   desc ""
   homepage ""
   url "https://raw.githubusercontent.com/Homebrew/homebrew-core/a1d1a3558543a12aee9d7825029266049ceebb07/Formula/kotlin.rb"
