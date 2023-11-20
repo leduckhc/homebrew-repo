@@ -1,9 +1,10 @@
-class Kotlin < Formula
+class KotlinAT1521 < Formula
     desc "Statically typed programming language for the JVM"
     homepage "https://kotlinlang.org/"
     url "https://github.com/JetBrains/kotlin/releases/download/v1.5.21/kotlin-compiler-1.5.21.zip"
     sha256 "f3313afdd6abf1b8c75c6292f4e41f2dbafefc8f6c72762c7ba9b3daeef5da59"
     license "Apache-2.0"
+    version "1.5.21"
   
     livecheck do
       url :stable
